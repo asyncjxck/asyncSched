@@ -1,0 +1,7 @@
+[submodule "scheduler"]
+	path = tweet-scheduler
+	url = git@github.com:jvckmo/tweet-scheduler.git
+  
+[submodule "sched-back"]
+	path = sched-back
+	url = git@github.com:jvckmo/sched-back.git
